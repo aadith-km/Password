@@ -11,4 +11,4 @@ A simple Python project that generates random passwords.
 - Python
 
 ## Author
-Your Name
+Aadith KM
